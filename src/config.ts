@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
+  title: 'Flandre923',
   subtitle: 'Demo Site',
   lang: 'en',
   themeHue: 250,
@@ -32,23 +32,23 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'Flandre923',
+  bio: '無我識・心空妙有  無垢識・空の境界',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      name: 'Bilibili',
+      icon: 'fa6-brands:bilibili',
+      url: 'https://space.bilibili.com/4550069',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'Afdian',
+      icon: 'fa6-brands:alipay',
+      url: 'https://afdian.net/a/flandre923',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Flandre923',
     },
   ],
 }
