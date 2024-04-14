@@ -1,10 +1,10 @@
 ---
 title: 45 添加生物群系
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 45 添加生物群系 相关教程
-image: ./covers/03c577cdc4bd410a1bdf32827f6442f89e1ad15e.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/419afe7190a47e6691de1002662d0341ec325883.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 添加生物群系

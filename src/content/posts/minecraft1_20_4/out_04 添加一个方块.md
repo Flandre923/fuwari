@@ -1,10 +1,10 @@
 ---
 title: 04 添加一个方块
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 04 添加一个方块 相关教程
-image: ./covers/3cbde43c3081df4458180b6ec97c8b87f75040f9.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/03c577cdc4bd410a1bdf32827f6442f89e1ad15e.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 第一个方块

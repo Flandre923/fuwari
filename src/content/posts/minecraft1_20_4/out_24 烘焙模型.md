@@ -1,10 +1,10 @@
 ---
 title: 24 烘焙模型
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 24 烘焙模型 相关教程
 image: ./covers/209819cd236988806684c93079f865dd36bb9dcb.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

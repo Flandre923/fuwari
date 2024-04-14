@@ -1,10 +1,10 @@
 ---
 title: 28 便利添加创造模式物品栏【可选】
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 28 便利添加创造模式物品栏【可选】 相关教程
-image: ./covers/54ce5015b4bd024c9fcee69a3e5dd184f7b11faf.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/1e4c4846a507a4bc124776a32a4cd1b13b9b73f0.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 便捷的方式将物品添加到创造模式物品栏[可选]

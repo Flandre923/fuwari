@@ -1,10 +1,10 @@
 ---
 title: 35 LevelSaveData
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 35 LevelSaveData 相关教程
-image: ./covers/b66cf820118f07ab1cc387a075cd13b5f19e67d4.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/48d60f5288b3399f306b7392b030aa3e7f3b2767.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

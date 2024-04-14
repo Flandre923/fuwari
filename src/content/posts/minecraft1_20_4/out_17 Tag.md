@@ -1,10 +1,10 @@
 ---
 title: 17 Tag
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 17 Tag 相关教程
-image: ./covers/6c533fcb8a32acb5574e0733cf9e436177ec55db.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/db5375b0efcd53976a3fe5d47fbd8f3b3216e0f8.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # tag表

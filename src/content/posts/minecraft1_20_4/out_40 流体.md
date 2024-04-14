@@ -1,10 +1,10 @@
 ---
 title: 40 流体
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 40 流体 相关教程
-image: ./covers/5e1fe9e0ebc3649e3cf2c94f4b8673f31c545ea3.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/db5375b0efcd53976a3fe5d47fbd8f3b3216e0f8.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

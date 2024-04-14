@@ -1,10 +1,10 @@
 ---
 title: 27 网络
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 27 网络 相关教程
-image: ./covers/f7e0ac08cbc49de9ba79e8593860ccf5990d77c2.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/a8e4dc1a735d0df9414275e16cd2e766e8abb3df.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

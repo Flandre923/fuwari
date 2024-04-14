@@ -1,10 +1,10 @@
 ---
 title: 23 方块实体内置的数据同步
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 23 方块实体内置的数据同步 相关教程
-image: ./covers/33de3e586b3c71f5e23bd5720e2f12737410c918.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/a8e4dc1a735d0df9414275e16cd2e766e8abb3df.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

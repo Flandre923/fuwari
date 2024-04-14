@@ -1,10 +1,10 @@
 ---
 title: 26 物品特殊渲染
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 26 物品特殊渲染 相关教程
-image: ./covers/2e76acce7aa48564aa5295a7dc2d4e3bb04668f4.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/dcdf7f7ee8c35900ba6ffaf9bfcb8bf7d0c2f339.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

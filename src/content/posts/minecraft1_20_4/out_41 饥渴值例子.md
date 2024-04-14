@@ -1,10 +1,10 @@
 ---
 title: 41 饥渴值例子
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 41 饥渴值例子 相关教程
-image: ./covers/0b800aff45b77ae711ae50626c47fa24f84ed459.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/237c82845e473225f9027f52d8645fed71473497.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

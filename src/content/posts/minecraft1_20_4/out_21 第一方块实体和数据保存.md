@@ -1,10 +1,10 @@
 ---
 title: 21 第一方块实体和数据保存
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 21 第一方块实体和数据保存 相关教程
-image: ./covers/18cc4bf1dffbe28c3a1d0034ddcde6841c421a73.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/ce183a8df6f70b3784a4c207210a8e46651c8efd.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 第一个方块实体和其数据保存

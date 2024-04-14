@@ -1,10 +1,10 @@
 ---
 title: 34 能力提供附加
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 34 能力提供附加 相关教程
-image: ./covers/1e4c4846a507a4bc124776a32a4cd1b13b9b73f0.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/75dbce6787e00ea0465fef1bd8923eab97ce98b9.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

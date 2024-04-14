@@ -1,10 +1,10 @@
 ---
 title: 43 结构生成
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 43 结构生成 相关教程
-image: ./covers/f68f744dd1fa035c2be12af76649ae68c8f642a3.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/33bba4aee6ecbb1717f43c720138144e1b1de251.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 结构生成

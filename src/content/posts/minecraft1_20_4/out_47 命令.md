@@ -1,10 +1,10 @@
 ---
 title: 47 命令
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 47 命令 相关教程
-image: ./covers/f68f744dd1fa035c2be12af76649ae68c8f642a3.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/5e1fe9e0ebc3649e3cf2c94f4b8673f31c545ea3.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

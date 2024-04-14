@@ -1,10 +1,10 @@
 ---
 title: 03 创造模式物品栏
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 03 创造模式物品栏 相关教程
-image: ./covers/f00b6f2c3b63c29b8b6afc6f650cd34080b23848.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/018535be9026ee118030fe659322cc3091f29ddc.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 自定义创造模式物品栏

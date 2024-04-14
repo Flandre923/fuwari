@@ -1,10 +1,10 @@
 ---
 title: 06 物品属性覆盖
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 06 物品属性覆盖 相关教程
-image: ./covers/dcdf7f7ee8c35900ba6ffaf9bfcb8bf7d0c2f339.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/d2ac8a0065079277912f5e2df2d019b19d62d3d2.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 物品属性覆盖

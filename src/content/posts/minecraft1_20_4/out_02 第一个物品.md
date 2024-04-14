@@ -1,10 +1,10 @@
 ---
 title: 02 第一个物品
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 02 第一个物品 相关教程
-image: ./covers/ad8ad3844772c4b57062d032625913a198677042.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/908b0f9eb44b349604fc2f5b3ff855374bc23664.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 

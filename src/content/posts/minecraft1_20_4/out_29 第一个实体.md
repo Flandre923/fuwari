@@ -1,10 +1,10 @@
 ---
 title: 29 第一个实体
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 29 第一个实体 相关教程
-image: ./covers/f00b6f2c3b63c29b8b6afc6f650cd34080b23848.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/8aeac5a0016d893c1a62e2531d794fa19a47fa61.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

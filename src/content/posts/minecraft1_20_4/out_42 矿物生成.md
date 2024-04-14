@@ -1,10 +1,10 @@
 ---
 title: 42 矿物生成
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 42 矿物生成 相关教程
-image: ./covers/5e1fe9e0ebc3649e3cf2c94f4b8673f31c545ea3.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/8aeac5a0016d893c1a62e2531d794fa19a47fa61.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 矿物生成

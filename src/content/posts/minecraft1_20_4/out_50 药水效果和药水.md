@@ -1,10 +1,10 @@
 ---
 title: 50 药水效果和药水
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 50 药水效果和药水 相关教程
-image: ./covers/69f2bc24f563756172f2e6256da455eecae40d52.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/48d60f5288b3399f306b7392b030aa3e7f3b2767.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 药水效果和药水

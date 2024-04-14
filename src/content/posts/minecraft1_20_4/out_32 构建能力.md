@@ -1,10 +1,10 @@
 ---
 title: 32 构建能力
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 32 构建能力 相关教程
-image: ./covers/7798cca5464edd8c7d9dbf16226840800803137c.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/ce183a8df6f70b3784a4c207210a8e46651c8efd.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 # 参考

@@ -1,10 +1,10 @@
 ---
 title: 20 添加新的村民
-published: 2024-04-13
-tags: [Minecraft, NeoForge, Tutorial]
+published: 2024-04-14
+tags: [Minecraft1_20_4, NeoForge20_3, Tutorial]
 description: 20 添加新的村民 相关教程
-image: ./covers/f68f744dd1fa035c2be12af76649ae68c8f642a3.jpg
-category: Minecraft NeoForge Tutorial 1.20.4
+image: ./covers/03c577cdc4bd410a1bdf32827f6442f89e1ad15e.jpg
+category: Minecraft1_20_4_NeoForge_Tutorial
 draft: false
 ---
 #  添加新的村民职业
