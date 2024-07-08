@@ -46,6 +46,9 @@ draft: false
 
 [Neoforge文档](https://docs.neoforged.net/) Neoforge的官方文档，比较详细的描述了各个个功能，不过内容比较多，适合英语阅读能力和对MC编程有一定的理解的人阅读，不然会读一头雾水。
 
+[Iron's Spells 'n Spellbooks MC百科](https://www.mcmod.cn/class/10175.html)
+
+[Iron's Spells 'n Spellbooks GitHub仓库](https://github.com/iron431/Irons-Spells-n-Spellbooks)
 # 工具
 
 [IDEA](https://www.jetbrains.com/zh-cn/idea/)
