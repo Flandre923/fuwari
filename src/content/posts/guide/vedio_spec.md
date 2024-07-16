@@ -29,6 +29,10 @@ draft: false
 
 [Bilibili个人主页](https://space.bilibili.com/4550069)
 
+
+![WeChatPay](./WeChatPay.jpg "WeChatPay Code")
+
+
 # 导航站
 
 介绍视频代码参考的内容，以及一些工具方便大家索引和寻找
