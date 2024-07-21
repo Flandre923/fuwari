@@ -25,7 +25,7 @@ draft: false
 
 [个人github地址](https://github.com/flandre923)
 
-[爱发电](https://afdian.net/a/flandre923)
+[爱发电](https://afdian.com/a/flandre923)
 
 [Bilibili个人主页](https://space.bilibili.com/4550069)
 

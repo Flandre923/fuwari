@@ -43,7 +43,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Afdian',
       icon: 'fa6-brands:alipay',
-      url: 'https://afdian.net/a/flandre923',
+      url: 'https://afdian.com/a/flandre923',
     },
     {
       name: 'GitHub',
