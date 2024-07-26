@@ -3,7 +3,7 @@ title: Neoforge 1.21 附魔教程
 published: 2024-07-26
 tags: [Minecraft1_21, Tutorial]
 description: Neoforge Minecraft1.21 附魔教程
-image: ./covers/419afe7190a47e6691de1002662d0341ec325883.jpg
+image: https://cdn.jsdelivr.net/gh/Flandre923/CDN@latest/img/20240726211455.png
 category: Minecraft1_21_NeoForge_Tutorial
 draft: false
 ---
@@ -11,7 +11,6 @@ draft: false
 # 参考和鸣谢
 
 (Infamous Jam的json教程)[https://www.youtube.com/watch?v=JbtYrwfcsxY]
-
 
 附魔在1.21迎来了一个较大的改变，废弃了之前的方式通过数据包的方式可以添加新的附魔，这次我们讲解1.21的附魔的添加以及如何实现逻辑。
 # 如何通过数据包的方式添加一个附魔
