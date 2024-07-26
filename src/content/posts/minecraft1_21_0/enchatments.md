@@ -1,6 +1,6 @@
 ---
 title: Neoforge 1.21 附魔教程
-published: 2024-04-14
+published: 2024-07-26
 tags: [Minecraft1_21, Tutorial]
 description: Neoforge Minecraft1.21 附魔教程
 image: ./covers/419afe7190a47e6691de1002662d0341ec325883.jpg
