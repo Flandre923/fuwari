@@ -10,10 +10,21 @@ draft: false
 
 # 简介
 
-此内容是视频简介的导航内容，你可以在这里找到一些教程资源和我个人地
-址。如果你有什么提问的问题还请在Kook中提出，一般大家会有回复，我看到如果知道怎么处理也会回答。
+各位观众朋友们大家好，这里是923，这里会放出关于视频中的资料链接和传送门，以及一些事项。
 
-关于发电，如果你在爱发电或者B站充电或者以其他形式发电支持，并希望加入到QQ发电群的话，还请在发电的途径留下你的联系方式，我也好同意进群。
+感谢大家一直以来的支持，由于爱发电更新了域名，所以这个动态也许要更新了（动态被叔叔干掉了，放这里了）。
+
+对于发电支持，大家可以通过B站或者博客提到的方式进行支持，有一个发电的聊天群，如果你想进群的话，还请发电同时备注好昵称和QQ号码。对于发电的人，我尽可能回答提出的问题，有什么相关的教程方面的需求我也会多家考虑去做。
+这是博客的链接：https://fuwari-ald.pages.dev/posts/guide/vedio_spec/
+发电QQ群：597815051
+
+对于提问：个人能力和精力有限，无法一一为大家回答问题，所以创建了Kook频道，在这里提问，我看到了知道怎么做的情况下就会回答你，也会有其他的懂的人回答。大家一起交流。
+Kook链接：https://www.kookapp.cn/app/invite/qVjevH
+
+最后希望大家有能力的支持下，点赞投币也可，我也有保持更新的动力。
+
+923
+2025.7.28
 
 此内容会不断变化，补充，如果你有什么需要补充的可以在视频评论区提出。
 
@@ -28,7 +39,6 @@ draft: false
 [爱发电](https://afdian.com/a/flandre923)
 
 [Bilibili个人主页](https://space.bilibili.com/4550069)
-
 
 ![WeChatPay](./WeChatPay.jpg "WeChatPay Code")
 
@@ -53,6 +63,7 @@ draft: false
 [Iron's Spells 'n Spellbooks MC百科](https://www.mcmod.cn/class/10175.html)
 
 [Iron's Spells 'n Spellbooks GitHub仓库](https://github.com/iron431/Irons-Spells-n-Spellbooks)
+
 # 工具
 
 [IDEA](https://www.jetbrains.com/zh-cn/idea/)
